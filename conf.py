@@ -16,7 +16,7 @@ SITE_URL = "http://www.esa-da.org/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
-BLOG_EMAIL = "j.gomez-dans@ucl.ac.uk"
+BLOG_EMAIL = "e.lines@ucl.ac.uk"
 BLOG_DESCRIPTION = "News and information about the ESA-sponsored Land Data Assimilation workshop."
 
 # Nikola is multilingual!
@@ -284,7 +284,7 @@ THEME = 'bootstrap3-gradients-jinja'
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://nikola.ralsina.com.ar">Nikola</a>'
+CONTENT_FOOTER = """<p style="font-size:0.5em">Contents &copy; {date}         <a href="mailto:{email}">{author}</a></p>"""
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)

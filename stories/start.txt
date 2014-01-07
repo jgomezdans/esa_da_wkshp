@@ -15,7 +15,7 @@ Introduction
       
 This website contains information on the ESA-sponsored land Data-Assimilation workshop to be `held in University College London (UCL) <location>`_ on the March 31st and April 1st.
 
-As part of the European Space Agency funded Data Assimilation projects <`http://esa-da.org/ <http://esa-da.org/>`_> the National Centre for Earth Observation (`NCEO <http://www.nceo.ac.uk>`_) is coordinating a two day workshop on data assimilation for land surface problems. The main aim will be to provide hands-on experience of a number of relevant software tools and theoretical techniques, through a number of `planned sessions </sessions/>`_
+As part of the European Space Agency funded Data Assimilation projects <`http://esa-da.org/ <http://esa-da.org/>`_> the National Centre for Earth Observation (`NCEO <http://www.nceo.ac.uk>`_) is coordinating a free two day workshop on data assimilation for land surface problems. The main aim will be to provide hands-on experience of a number of relevant software tools and theoretical techniques, through a number of `planned sessions </sessions/>`_
 
 Eligibility and application procedure
 ---------------------------------------
@@ -29,4 +29,5 @@ When and Where?
 ---------------
 
 At the Department of Geography, University College London, UK (`more details </location/>`_).
+
 
