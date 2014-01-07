@@ -1,0 +1,8 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2014/01/06 19:20:12
+.. title: Application procedure now open
+.. slug: application-procedure-now-open
+
+Applications for the ESA Land Data assimilation workshop are now open! If you are interested in attending, apply `here <signup>`_.

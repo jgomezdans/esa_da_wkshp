@@ -1,0 +1,18 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2014/01/06 19:18:12
+.. title: Location & accommodation
+.. slug: location
+
+Accommodation will be provided in University of London Halls of Residence on the nights of the 30th and 31st March but attendees will be required to fund their own travel. Meals will be provided on the days of the workshop only (including an evening meal on the 31st).
+
+The workshop will take place on the Pearson Building, `Department of Geography <http://www.geog.ucl.ac.uk>`_, University College London, Gower Street. UCL is very close to Euston and King's Cross train stations, as well as being easily accessible using public transport (see `here <http://www.geog.ucl.ac.uk/about-the-department/contacts-location/how-to-find-the-department>`_ for more details).
+
+
+.. raw:: html
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206373534851039103235.0004cb2b2a2278bf8229b&amp;ie=UTF8&amp;ll=51.524415,-0.134428&amp;spn=0,0&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206373534851039103235.0004cb2b2a2278bf8229b&amp;ie=UTF8&amp;ll=51.524415,-0.134428&amp;spn=0,0&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">Pearson Building, Gower St, WC1E 6BT</a> in a larger map</small>
+
+
+

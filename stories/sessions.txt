@@ -1,0 +1,75 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2014/01/06 19:17:53
+.. title: Sessions
+.. slug: sessions
+
+
+Sessions
+----------
+
+Assimilating Data into JULES using a Particle Filter.
+=======================================================
+
+Tristan Quaife/Reading
+***********************
+
+This practical session will use a Resampling Particle Filter scheme to constrain the state vector of
+the Joint UK Land Environment Simulator (`JULES <http://jules.jchmr.org/>`_) with observations of land-atmosphere gas fluxes. The various Particle Filters are an attractive mechanism for Data Assimilation in land surface problems as they are fully non-linear and make no inherent assumptions about the statistics
+of the model errors. Generally speaking however they require a larger number of ensemble
+members than related techniques and often suffer from filter degeneracy. As well as exploring these
+issues the practical implementation of the filter will be discussed and students will be able to take a
+copy of the Python scripts used for the class. Additional reading materials and references will be
+provided.
+
+Practical variational data assimilation with ``eoldas_ng``
+===========================================================
+
+Jose Gómez-Dans/UCL
+*********************
+
+Variational DA approaches are popular due to their simplicity and efficiency. While they suffer from
+a number of shortcomings, they are often the only practical way of carrying out DA in real contexts.
+In this session, we will explore the theory behind variational DA approaches to highlight their
+limitations. We will use very simple vegetation models, complex observation operators based on
+radiative transfer theory and sophisticated numerical approaches to explore the retrieval of
+meaningful biophysical parameters (leaf area index, leaf chlorophyll concentration, etc.) from satellite data (e.g. surface directional reflectance). The emphasis is on a practical scheme to allow the students to apply the techniques to their own problems. The examples will be illustrated using the Python
+language ``eoldas_ng`` package, freely available on-line.
+
+
+Derivative code generation and quantitative network design
+============================================================
+
+Thomas Kaminski/FastOpt
+*************************
+
+Variational assimilation is based on code for evaluation of derivatives of the underlying model and
+the observational operators. The first part of the lecture will present the basic principles of
+automatic differentiation, a technique to provide such derivative code. The second part of the
+lecture addresses the design of an observational network of the terrestrial carbon cycling. The
+quantitative network design approach evaluates candidate networks in terms of constraining net and
+gross carbon fluxes through assimilation into a terrestrial biosphere model.
+The practical component will include: 
+
+* Tangent and adjoint coding in Fortran; 
+* Sensitivity Analysis using a simple Fortran model
+* Playing with an online tool for quantitative network design
+
+Assimilating different data streams into the ORCHIDEE land surface model
+==========================================================================
+
+Natasha MacBean/LSCE
+*********************
+
+Estimating parameters in land surface models is a non-trivial task; in the ORCHIDEE LSM alone
+there are 300+ parameters. Investigating which are the most sensitive parameters, which data
+streams can be used to constrain these parameters, and understanding the potential issues associated
+with the data assimilation procedure, is an active research topic. In this practical we will explore the
+impact of assimilating different, and combined, data streams into the ORCHIDEE model, including
+surface net carbon, water and energy fluxes, atmospheric CO2 concentration data, biomass data and
+satellite-derived observations of the vegetation seasonal cycle. The aim is to better understand the
+possibilities and current limitations/future research directions associated with trying to constrain a
+complex, physically based model.
+
+
